@@ -1,4 +1,6 @@
-# MergeFarm
+# Merge BEP20
+UUPS proxies are implemented using an ERC1967Proxy. Alongside the contract’s logic, all the code necessary to update the implementation’s address that is stored at a specific slot in the proxy’s storage space. 
+UUPS compliant implementation.
 
 https://farm.projectmerge.org/. Feel free to read the code. More details coming soon.
 
